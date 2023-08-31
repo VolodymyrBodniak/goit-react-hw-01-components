@@ -1,0 +1,12 @@
+.label {
+  margin-bottom: 10px;
+}
+
+.label::first-letter {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.quantity {
+  font-weight: bold;
+  color: #162234;
+}
